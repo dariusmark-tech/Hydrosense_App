@@ -215,22 +215,6 @@ eas build --platform android --profile preview
 eas build --platform ios
 ```
 
----
-
-## 📁 Phase 5 Checklist
-
-Before shipping, verify the full end-to-end flow:
-
-- [ ] ESP32 connects to WiFi → serial monitor shows `WiFi connected`
-- [ ] ESP32 POSTs readings → Firestore shows new document in `readings` collection
-- [ ] Dashboard auto-updates within 60 seconds
-- [ ] Camera capture → classification returns stage + confidence
-- [ ] Sensor out of range → push notification appears on phone
-- [ ] Logs screen shows last 50 entries with correct timestamps
-- [ ] System Health shows all 5 sensors as `Operational`
-- [ ] Disconnect ESP32 → Health screen shows `Offline` within 2 minutes
-
----
 
 ## 🤝 Contributing
 
