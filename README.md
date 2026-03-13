@@ -1,4 +1,4 @@
-# 🌿 G.R.O.W.T.H
+# 🌿 Hydrosense
 
 **Smart Hydroponic Monitoring System** — A React Native (Expo) app for real-time plant health tracking, AI-powered growth classification, and ESP32 sensor integration.
 
