@@ -138,7 +138,7 @@ This project is built in 5 sequential phases. See [`HydroSense_Build_Guide.docx`
 
 ---
 
-## 🌐 Backend API (Phase 3)
+## Backend API (Phase 3)
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
