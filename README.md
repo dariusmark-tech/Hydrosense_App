@@ -4,7 +4,7 @@
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 | Dashboard | Monitoring | Camera AI | Logs | Health |
 |:---------:|:----------:|:---------:|:----:|:------:|
@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time sensor dashboard** — Temperature (3× DHT11 averaged), Humidity, pH, and TDS displayed in a clean 4-card layout
 - **Interactive monitoring** — Time-range tabs (1h / 6h / 24h / 7d) with VictoryLine sparkline charts per sensor
