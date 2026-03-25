@@ -111,7 +111,7 @@ This project is built in 5 sequential phases. See [`HydroSense_Build_Guide.docx`
 
 ---
 
-## 🌱 Hardware Setup (Phase 2)
+## Hardware Setup (Phase 2)
 
 ### Components
 
