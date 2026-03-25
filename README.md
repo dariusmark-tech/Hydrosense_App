@@ -97,7 +97,7 @@ npx expo start
 
 ---
 
-## 🏗️ Build Phases
+## Build Phases
 
 This project is built in 5 sequential phases. See [`HydroSense_Build_Guide.docx`](./HydroSense_Build_Guide.docx) for the full step-by-step instructions.
 
