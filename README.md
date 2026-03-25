@@ -52,7 +52,7 @@ HydroSense/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
